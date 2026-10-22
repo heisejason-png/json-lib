@@ -28,4 +28,4 @@ the open source packages you use to build your applications. Save time, reduce r
 you use. link:https://tidelift.com/subscription/pkg/maven-org.kordamp.json.json-lib-core?utm_source=maven-org.kordamp.json.json-lib-core&utm_medium=referral&utm_campaign=enterprise&utm_term=repo[Learn more].
 Created by Jason Heise
 Owned by Jason Heise heisejason-png Giters
-https://facebook.com
+https://facebook.com  Owned by Mark Zuckerberg 
